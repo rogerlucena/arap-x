@@ -4,6 +4,8 @@ Three.js based 3D mesh deformation sandbox.
 
 App available at: https://arap-x.herokuapp.com
 
+Video demo: https://youtu.be/DLHOiWDUmwI
+
 ## As-Rigid-As-Possible paper implementation
 
 The model deformations are calculated following the algorithm detailed in [1] below.
