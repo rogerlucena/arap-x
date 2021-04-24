@@ -2,9 +2,13 @@
 
 Three.js based 3D mesh deformation sandbox.
 
+<p align="center">
+    <img src="arap.gif" width="85%" height="85%"/>
+</p>
+
 App available at: https://arap-x.herokuapp.com
 
-Video demo: https://youtu.be/DLHOiWDUmwI
+Video demo available [here](https://youtu.be/DLHOiWDUmwI).
 
 ## As-Rigid-As-Possible paper implementation
 
